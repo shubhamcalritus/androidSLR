@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_fa8167f2d0bd5e82f1676ebf1f358c07cc9eaa9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/fc63ff53363352dc885d368300e120a5e7c13cf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_bb3ed29d9dc9c0e362f84db3c79b3f09743a5ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.8.0/e858dc62ef484048540d27d36f3ec2177a3fa9b1/javapoet-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e858dc62ef484048540d27d36f3ec2177a3fa9b1">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/javapoet-1.8.0_99ebc0475abae18fda384de87f744c4584a41afb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_c52b106adb71ebe41854324a9c1fc4ae3d8802bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/15a32cc27015f30ad6c137711313c256f4602782/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_7bae79d28524492e262403ea6687fd770365e7d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_1904c264baa379ecfed17a64d9951e8a70533b25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/397ba20c1dff28b79dd078e2ec94fdc095834740/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_23067a5069740f5aad3262fce301d837adf73d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/4a731c69919e0d30cf2ec13ce3ce5a6296ea0335/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_3d49581e441a8cae1cd67fa254e57bf85d79268f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/7fbf4d3b6da4ebd12486134f896d1d06fd59c2ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_b646443e83833b5fe9153ba5bf7b7b5831087c31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/7e4a7710663af3a177b6ecc23b4b665879920153/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_89a82ae72f044c061df9934077cd679399a75685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/6c6f21e262fccbc36fb806da61c7c3c3bbdc5897/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_ee41a375e3cd24f82cf26f99c2b2a3aa432086d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0-rc2/51033a5b8fcf7039159e35b6878f106ccd5fb35f/auto-service-1.0-rc2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51033a5b8fcf7039159e35b6878f106ccd5fb35f">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/auto-service-1.0-rc2_207c426d9ffe81b52f500027a690e3c03c2e7e9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/0ef5495f7bbf4e2378c998688359e43295dcd6e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_d293ca609dbfe89f4d0fcff2051411ab3f98fad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-compiler/8.5.1/76253d53698d5a93191ebf72534e9eeb7391b5c3/butterknife-compiler-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76253d53698d5a93191ebf72534e9eeb7391b5c3">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/butterknife-compiler-8.5.1_a2b4e66ce7e8e4bd817c0388231283ba0fbd79bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/28fc80105324f49a98faeb900eed01e2c837270d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_9c090b2a2b1c641be165987c3a545921a39cd243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_2aa26c08e2cb61724e181169cada7b6f95e845f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/b523e0a16d0f6c46584e174c5ecd9018ad8d3e9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_f441e06c6bef8911f9f0d6263947c82a38d3027e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_396d0809bd7f65ff3775abc25abfcd62c3dbb749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/631ffba2d365cff872b9fa2e8779fe5bafe687eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_8dad92f0bcf411971722dc512c1093fd9a6533f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/7d73f6dc1afae1b73f7b5def6340ae2a6f500846/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_bfecc5006f3a520fa6fafe2afa76beb559211233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.6/cf7212b0f8bfef12657b942df8f4f2cf032d3f41/auto-common-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf7212b0f8bfef12657b942df8f4f2cf032d3f41">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/auto-common-0.6_d72ed2b4e12c2c8a3b0160aa9c8748e71b6be71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/okio-1.11.0_96f6e5972af7608a22c9573218df424f8638237a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/4f95743560ecc07eeb548a470f2fa9d52fff5cce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_04b6aeb59507c971bcb808c2e23bcb896fba42e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/claritus/.android/build-cache/aae4ce1e602d1a69684ef2039d10cdd66da4db50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/claritus/Desktop/MyProjects/ModUser/app/build/intermediates/pre-dexed/debug/classes_b38e1943618fb16f00fc6cb8f85409d2efef450d.jar" />
+    </item>
+
+</items>
